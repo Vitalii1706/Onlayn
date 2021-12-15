@@ -74,4 +74,4 @@ const res = listElem.addEventListener('click', undateTaskHandler);
 // 1. get data (завантаження даних після завант сторінки)
 // 2. render (відмалювали сторінку)
 // 3. update data, don`t update DOM(!!!!!) (оновлення данних, не працюється з ДОМ )
-// 4. re-render (знову відмалювали сторінку)
+// 4. re-render (знову відмалювали сторінку)   ///
